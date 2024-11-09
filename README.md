@@ -1,6 +1,6 @@
 # MathFacile
 
-Les 2 branches n'ayant pas été fusionné dans la branche principal main sont les branches puissance et sinus
+La branche n'ayant pas été fusionné dans la branche principal est la branche trigonometrie
 
 Le nom des trois personnes ayant effectué des commits  sur le projet sont 
 
